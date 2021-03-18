@@ -1,0 +1,6 @@
+threebuttonstwoactivities/SecondActivity.java
+ me.mahakagg.threebuttonstwoactivities.SecondActivity
+me/mahakagg/threebuttonstwoactivities/BuildConfig.java
+ me.mahakagg.threebuttonstwoactivities.BuildConfig
+threebuttonstwoactivities/MainActivity.java
+ me.mahakagg.threebuttonstwoactivities.MainActivity
